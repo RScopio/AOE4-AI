@@ -1,0 +1,51 @@
+train: data/images
+val: data/images
+
+nc: 43
+names:
+ - AgeTitle
+ - Archer
+ - ArcheryRange
+ - Barracks
+ - Berry
+ - Blacksmith
+ - Boar
+ - Carcass
+ - Deer
+ - Farm
+ - Forest
+ - Gold
+ - House
+ - Keep
+ - Landmark
+ - LumberCamp
+ - Market
+ - Mill
+ - MiningCamp
+ - Monastery
+ - Outpost
+ - POI
+ - PalisadeGate
+ - PalisadeWall
+ - Relic
+ - SacredSite
+ - Scout
+ - Sheep
+ - SiegeWorkshop
+ - Spearman
+ - Stable
+ - Stone
+ - StoneWall
+ - StoneWallGate
+ - StoneWallTower
+ - TownCenter
+ - Tree
+ - University
+ - Villager
+ - Wolf
+ - Wonder
+ - object
+ - Minimap
+
+
+
